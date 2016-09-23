@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5e55ad89-21d6-401f-b9b4-5eea2cf784b1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-glass.html" afterPath="$PROJECT_DIR$/google-glass.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_css/specs.css" afterPath="$PROJECT_DIR$/_css/specs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specs.html" afterPath="$PROJECT_DIR$/specs.html" />
     </list>
     <ignored path="projeto-glass-html5.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
+            <state relative-caret-position="460">
               <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="93" selection-end-column="7" />
               <folding>
                 <element signature="e#1428#1434#0" expanded="true" />
@@ -40,51 +41,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="specs.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="specs.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/specs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="90" selection-start-line="26" selection-start-column="90" selection-end-line="26" selection-end-column="90" />
+            <state relative-caret-position="211">
+              <caret line="47" column="96" selection-start-line="47" selection-start-column="96" selection-end-line="47" selection-end-column="96" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fotos.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fotos.html">
+      <file leaf-file-name="specs.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_css/specs.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="81" selection-start-line="26" selection-start-column="81" selection-end-line="26" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multimidia.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multimidia.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="86" selection-start-line="26" selection-start-column="86" selection-end-line="26" selection-end-column="86" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fale-conosco.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fale-conosco.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="83" selection-start-line="26" selection-start-column="83" selection-end-line="26" selection-end-column="83" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="google-glass.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/google-glass.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+            <state relative-caret-position="225">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -93,8 +64,8 @@
       <file leaf-file-name="estilo.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_css/estilo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1726">
-              <caret line="223" column="10" selection-start-line="223" selection-start-column="10" selection-end-line="223" selection-end-column="10" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -119,11 +90,12 @@
         <option value="$PROJECT_DIR$/testejs.html" />
         <option value="$PROJECT_DIR$/_javascript/funcoes.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/specs.html" />
         <option value="$PROJECT_DIR$/fotos.html" />
         <option value="$PROJECT_DIR$/multimidia.html" />
         <option value="$PROJECT_DIR$/fale-conosco.html" />
         <option value="$PROJECT_DIR$/google-glass.html" />
+        <option value="$PROJECT_DIR$/_css/specs.css" />
+        <option value="$PROJECT_DIR$/specs.html" />
       </list>
     </option>
   </component>
@@ -285,12 +257,12 @@
       <workItem from="1474046015025" duration="13919000" />
       <workItem from="1474228881243" duration="1613000" />
       <workItem from="1474347521204" duration="1632000" />
-      <workItem from="1474599569017" duration="1885000" />
+      <workItem from="1474599569017" duration="3420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19049000" />
+    <option name="totallyTimeSpent" value="20584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -435,14 +407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="90" selection-start-line="26" selection-start-column="90" selection-end-line="26" selection-end-column="90" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fotos.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -467,9 +431,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/google-glass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
+        <state relative-caret-position="460">
           <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="93" selection-end-column="7" />
           <folding>
             <element signature="e#1428#1434#0" expanded="true" />
@@ -483,16 +455,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_css/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1726">
-          <caret line="223" column="10" selection-start-line="223" selection-start-column="10" selection-end-line="223" selection-end-column="10" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/google-glass.html">
+    <entry file="file://$PROJECT_DIR$/_css/specs.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        <state relative-caret-position="225">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="47" column="96" selection-start-line="47" selection-start-column="96" selection-end-line="47" selection-end-column="96" />
           <folding />
         </state>
       </provider>
